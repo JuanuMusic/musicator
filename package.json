@@ -1,0 +1,19 @@
+{
+  "name": "musicator",
+  "version": "1.0.0",
+  "description": "A game that creates music",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JuanuMusic/musicator.git"
+  },
+  "author": "Juan Manuel Haedo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/JuanuMusic/musicator/issues"
+  },
+  "homepage": "https://github.com/JuanuMusic/musicator#readme"
+}
